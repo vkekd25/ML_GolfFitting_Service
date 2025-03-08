@@ -35,4 +35,11 @@
 
 <img width="621" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
 
+- **References**
+  - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
+  - [Dead Frog. https://www.dead-frog.com/.](https://trackmanuniversity.com/Home)
+
+     
+<br><br>
+
 
