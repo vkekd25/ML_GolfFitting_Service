@@ -17,7 +17,7 @@
 
 [서비스 결과]
 
-<img width="321" height="100" alt="스크린샷 2025-03-07 오전 7 16 23" src="https://github.com/user-attachments/assets/0eb41017-1aa5-403f-87cb-b743e20af248" />
+<img width="621" alt="스크린샷 2025-03-07 오전 7 16 23" src="https://github.com/user-attachments/assets/0eb41017-1aa5-403f-87cb-b743e20af248" />
 <img width="621" alt="스크린샷 2025-03-07 오전 7 17 13" src="https://github.com/user-attachments/assets/a53f5ae0-bc3e-400f-b7bc-f93b67a61de5" />
 <img width="621" alt="스크린샷 2025-03-07 오전 7 28 48" src="https://github.com/user-attachments/assets/c0098d09-674d-4a35-900e-b5a4539b1732" />
 
@@ -25,7 +25,7 @@
 
 **스크린골프 장비 상관관계**
 
-<img width="621" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
+<img width="621" height="300" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
 
 
 **유저샷분석**
