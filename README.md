@@ -38,6 +38,8 @@
 - **References**
   - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
   - [Dead Frog. https://www.dead-frog.com/.](https://trackmanuniversity.com/Home)
+  - https://airflow.apache.org/docs/
+  - https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html
 
      
 <br><br>
