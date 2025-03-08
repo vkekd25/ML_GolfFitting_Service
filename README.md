@@ -21,6 +21,16 @@
 <img width="621" alt="스크린샷 2025-03-07 오전 7 17 13" src="https://github.com/user-attachments/assets/a53f5ae0-bc3e-400f-b7bc-f93b67a61de5" />
 <img width="621" alt="스크린샷 2025-03-07 오전 7 28 48" src="https://github.com/user-attachments/assets/c0098d09-674d-4a35-900e-b5a4539b1732" />
 
+[데이터 분석 결과]
+
+스크린골프 장비 상관관계
+
+유저샷분석
+
+골프스윙유형 분석
+
+
+
 [ML 결과]
 
 <img width="621" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
