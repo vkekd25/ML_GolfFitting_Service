@@ -25,7 +25,7 @@
 
 **스크린골프 장비 상관관계**
 
-<img width="621" height="300" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
+<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
 
 
 **유저샷분석**
