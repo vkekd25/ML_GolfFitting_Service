@@ -25,21 +25,21 @@
 
 **스크린골프 장비 상관관계**
 
-<img width="621" height="250" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
+<img width="421" height="280" alt="스크린샷 2025-03-08 오후 5 15 32" src="https://github.com/user-attachments/assets/7fd849f7-3442-40ec-a826-7f15e94a6223" />
 
 
 **유저샷분석**
 
-<img width="621" alt="스크린샷 2025-03-08 오후 5 13 23" src="https://github.com/user-attachments/assets/4fb4e2bf-7b49-4b41-b5ff-dd4137bce03c" />
+<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 13 23" src="https://github.com/user-attachments/assets/4fb4e2bf-7b49-4b41-b5ff-dd4137bce03c" />
 
 **골프스윙유형 분석**
 
-<img width="621" alt="스크린샷 2025-03-08 오후 5 12 47" src="https://github.com/user-attachments/assets/11b6934e-46e9-4c7e-877c-a1a7a3f9511d" />
+<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 5 12 47" src="https://github.com/user-attachments/assets/11b6934e-46e9-4c7e-877c-a1a7a3f9511d" />
 
 
 [ML 결과]
 
-<img width="621" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
+<img width="621" height = "280" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
 
 - **References**
   - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
