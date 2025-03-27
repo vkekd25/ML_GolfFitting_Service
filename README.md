@@ -84,7 +84,8 @@
   - https://airflow.apache.org/docs/
   - https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html
 
-     
+추가 및 상세자료는 데이터 분석 파일 참고
+
 <br><br>
 
 
