@@ -78,13 +78,15 @@
 
 <img width="621" height = "280" alt="스크린샷 2025-03-08 오후 4 43 32" src="https://github.com/user-attachments/assets/98cc90ac-0876-429a-adb4-2b4d1c17a697" />
 
+추가 및 상세자료는 데이터 분석 파일 참고
+
 - **References**
   - [Scraps From the Loft, “Stand-Up Comedy Transcripts.” https:// scrapsfromtheloft.com/stand-up-comedy-scripts/.](https://xgboost.readthedocs.io/en/stable/)
   - [Dead Frog. https://www.dead-frog.com/.](https://trackmanuniversity.com/Home)
   - https://airflow.apache.org/docs/
   - https://docs.aws.amazon.com/ko_kr/AWSEC2/latest/UserGuide/concepts.html
 
-추가 및 상세자료는 데이터 분석 파일 참고
+
 
 <br><br>
 
